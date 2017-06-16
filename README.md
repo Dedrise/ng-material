@@ -2,7 +2,7 @@
 
 ## About
 
-This is an Angular 4 CLI clean project with Material Design imported and ready to use
+This is an Angular CLI clean project with Material Design imported and ready to use
 
 to learn more and know how to use it visit [Material Design](https://material.angular.io)
 
